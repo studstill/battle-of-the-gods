@@ -1,0 +1,16 @@
+{
+  "name": "battle-of-the-gods",
+  "version": "0.1.0",
+  "description": "Simple cli game",
+  "main": "src/battleOfTheGods.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Studstill",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "prompt": "^0.2.14"
+  }
+}
