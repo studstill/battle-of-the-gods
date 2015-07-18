@@ -1,4 +1,4 @@
-How to Use:
+#How to Use:
 
 - Clone repo to a local directory
 
