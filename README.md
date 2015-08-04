@@ -4,10 +4,10 @@
 
 - Navigate to the cloned directory in your terminal
 
-- Type > npm install
+- Type `npm install`
 
-- Type > gulp
+- Type `gulp`
 
-- Type > node built/battleOfTheGods.js
+- Type `node built/battleOfTheGods.js`
 
 - Good Luck!
